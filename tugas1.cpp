@@ -2,7 +2,7 @@
 using namespace std;
 
 // program untuk 
-
+// ini adalah penambahan 
 int main(){
 	int bilangan [6]={9,4,3,4,9,2};
 	int i;
