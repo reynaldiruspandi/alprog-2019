@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// program untuk 
+
 int main(){
 	int bilangan [6]={9,4,3,4,9,2};
 	int i;
@@ -11,5 +13,4 @@ int main(){
 		
 		return 0;
 		
-	
 }
